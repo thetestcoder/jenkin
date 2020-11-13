@@ -6,8 +6,5 @@
     "psr-4": {
       "": "src/"
     }
-  },
-  "autoload-dev": {
-    "": "tests"
   }
 }
